@@ -17,7 +17,7 @@ dependencies = [
     # project's declared Python range (>=3.10); the R22 pipeline was validated
     # against recent releases (rapidocr 3.10 / onnxruntime 1.31 / numpy 2.5).
     "numpy>=1.26",
-    "onnxruntime>=1.17",
+    "onnxruntime>=1.24.3",
     "opencv-python-headless>=4.8",
     "opendataloader-pdf>=2.4.7",
     "openpyxl>=3.1.0",
