@@ -1,0 +1,8 @@
+{
+  "CommandLineFlagSecurityWarningsEnabled": false,
+  "BrowserSignin": 1,
+  "PasswordManagerEnabled": true,
+  "PasswordLeakDetectionEnabled": true,
+  "AutofillAddressEnabled": false,
+  "AutofillCreditCardEnabled": false
+}
